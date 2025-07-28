@@ -29,11 +29,11 @@ This guide provides step-by-step instructions to set up the **CRYSTAL Virtual Ma
 
 1. 🔽 **[Download and Install UTM](https://mac.getutm.app/)**
 
-2. 📂 **Unzip** the file: `mssc2025_debian_MacOS_arm.utm.zip`
+2. 📂 **Unzip** the file: `CRYSTAL_VM_MSSC2025.utm.zip`
 
-3. 🖱️ **Drag and drop** the Virtual Machine `CRYSTAL_VM_MSSC2025.utm` into UTM
+4. 🖱️ **Drag and drop** the Virtual Machine `CRYSTAL_VM_MSSC2025.utm` into UTM
 
-4. ▶️ Click the **Start** button in UTM
+5. ▶️ Click the **Start** button in UTM
 
 ---
 
