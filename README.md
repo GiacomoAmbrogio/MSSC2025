@@ -42,13 +42,15 @@ This guide provides step-by-step instructions to set up the **CRYSTAL Virtual Ma
 
 3. 📦 **Import `CRYSTAL_VM_MSSC2025.ova`**:
    - Go to **File → Import Appliance**
-   - Select the file `CRYSTAL_VM_MSSC2025.ova`
-   - (Optional) Choose your preferred **Machine Base Folder**
-   - For **MAC Address Policy**:  
-     `Generate new MAC addresses for all network adapters`
-   - For **Additional Options**:  
-     `Import Hard Drives as VDI`
-   - Click **Import** and wait for the process to complete.
+   - In the "Source" menu
+     - Select the file `CRYSTAL_VM_MSSC2025.ova`
+     - (Optional) Choose your preferred **Machine Base Folder**
+   - In the "Settings" menu
+     - For **MAC Address Policy**:  
+       `Generate new MAC addresses for all network adapters`
+     - For **Additional Options**:  
+       tick `Import Hard Drives as VDI`
+   - Click **Finish** and wait for the process to complete.
 
 4. ▶️ In VirtualBox, **select and start** the imported VM.
 
