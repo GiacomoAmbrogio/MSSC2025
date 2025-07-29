@@ -44,8 +44,8 @@ This guide provides step-by-step instructions to set up the **CRYSTAL Virtual Ma
    - Go to **File → Import Appliance**
    - In the "Source" menu
      - Select the file `CRYSTAL_VM_MSSC2025.ova`
-     - (Optional) Choose your preferred **Machine Base Folder**
    - In the "Settings" menu
+     - (Optional) Choose your preferred **Machine Base Folder**
      - For **MAC Address Policy**:  
        `Generate new MAC addresses for all network adapters`
      - For **Additional Options**:  
